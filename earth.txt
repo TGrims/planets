@@ -3,4 +3,4 @@ Owner
 blue green skies
 green grass
 dark blue sea
-We added a different line in the other copy
+We removed the conflict on this line
